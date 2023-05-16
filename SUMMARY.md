@@ -8,5 +8,5 @@
 
 ## Ghidra
 
-* [Ghildra簡介](ghidra/ghidra-introduction.md)
+* [Ghildra簡介](re-introduction/ghidra.md)
 * [Page 1](ghidra/page-1.md)
