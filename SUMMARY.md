@@ -10,4 +10,4 @@
 ## Ghidra
 
 * [Ghildra簡介](re-introduction/ghidra.md)
-* [Page 1](ghidra/page-1.md)
+* [範例: Hello world](ghidra/fan-li-hello-world.md)

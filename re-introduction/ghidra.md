@@ -8,6 +8,14 @@ Ghidra是一個軟體逆向工程（SRE）框架，包括一套功能齊全的�
 
 軟體逆向工程工具本就不多，特別是在軟體靜態分析工具方面，Ghidra 是少數能與 IDA Pro 比肩的軟體。
 
+## 修改軟體字型
+
+[https://github.com/NationalSecurityAgency/ghidra/issues/83](https://github.com/NationalSecurityAgency/ghidra/issues/83)
+
+修改檔案`$GHIDRA_HOME/support/launch.properties` 中的`VMARGS_LINUX=-Dsun.java2d.uiScale=1`改為`VMARGS_LINUX=-Dsun.java2d.uiScale=2`
+
+或是 `VMARGS=-Dfont.size.override=18`
+
 ## 參考資料
 
 * [Ghidra官方網站](https://ghidra-sre.org/)
