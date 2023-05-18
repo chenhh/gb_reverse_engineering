@@ -10,4 +10,5 @@
 ## Ghidra
 
 * [Ghildra簡介](re-introduction/ghidra.md)
+* [範例: 函數](ghidra/example-function.md)
 * [範例: Hello world](ghidra/fan-li-hello-world.md)
